@@ -6,3 +6,7 @@ FreeGeek Chicago is a Not-for-Profit organization that is governed by its volunt
   - Code of Conduct
   - Rewards Policy
   - Privacy Policy
+
+## License
+[![license](http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/3.0/us/deed.en_US)  
+Unless otherwise noted, all documents are licensed under a [Creative Commons Attribution-ShareAlike 3.0 United States License](http://creativecommons.org/licenses/by-sa/3.0/us/deed.en_US).
