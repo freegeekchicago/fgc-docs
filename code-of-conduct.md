@@ -8,7 +8,7 @@ FreeGeek is strongly opposed to violence and to insure that each person that is 
 
 FreeGeek is an information technology-oriented organization. Participants pledge to refrain from any sexual language, innuendo or offensive remarks related to gender, sexual orientation, spiritual belief systems and religion, political views or ethnicity. Disparaging remarks about any group of people, unwanted sexual advances towards others, excessive cursing, cursing around children and other disruptive behaviors are unacceptable. These behaviors are unrelated to FreeGeek's goals and they can be completely alienating to other Participants.
 
-Items prohibited on FreeGeek premises include pirated software, bootleg media, and adult material.
+Items prohibited on FreeGeek premises include pirated software, bootleg media, alcohol, and adult material.
 
 If two or more Staff Persons agree (unless only one Staff Person is on duty), any Participant may be asked to leave the space for the remainder of any open day. If any Staff Person believes that more serious measures are required, the Staff will meet and attempt to reach consensus on a course of action.
 
